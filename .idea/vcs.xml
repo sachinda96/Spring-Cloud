@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Reservation-services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guest-services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/room-reservation-services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/room-services" vcs="Git" />
   </component>
 </project>
