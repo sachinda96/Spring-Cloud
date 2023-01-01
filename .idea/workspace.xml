@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f2a9dc0-66a7-45c2-be9a-1ef104e5f328" name="Changes" comment="init the project">
+    <list default="true" id="0f2a9dc0-66a7-45c2-be9a-1ef104e5f328" name="Changes" comment="Complete the Discovery Configurations">
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
@@ -410,7 +410,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672468110366</updated>
-      <workItem from="1672468112755" duration="13844000" />
+      <workItem from="1672468112755" duration="13932000" />
     </task>
     <task id="LOCAL-00001" summary="init the project">
       <created>1672468221324</created>
@@ -426,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672468487597</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Complete the Discovery Configurations">
+      <created>1672560728839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672560728839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,6 +452,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="init the project" />
+    <MESSAGE value="Complete the Discovery Configurations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete the Discovery Configurations" />
   </component>
 </project>
